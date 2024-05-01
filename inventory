@@ -1,2 +1,8 @@
 [db]
 db.balkriishna.online
+
+[backend]
+backend.balkriishna.online
+
+[frontend]
+balkriishna.online
